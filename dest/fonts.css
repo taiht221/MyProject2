@@ -1,0 +1,29 @@
+
+
+@font-face {
+    font-family: 'EBS';
+    src: url('../fonts/ElleBaskerville-SemiBold.woff2') format('woff2'),
+        url('../fonts/ElleBaskerville-SemiBold.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'EBB';
+    src: url('../fonts/ElleBaskerville-Bold.woff2') format('woff2'),
+        url('../fonts/ElleBaskerville-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'EBR';
+    src: url('../fonts/ElleBaskerville.woff2') format('woff2'),
+        url('../fonts/ElleBaskerville.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
